@@ -330,10 +330,10 @@
   resolved "https://registry.yarnpkg.com/@shopify/polaris-icons/-/polaris-icons-4.17.0.tgz#6658154b0dfcc6ce9427095cb0a3423cf266d1de"
   integrity sha512-Vd6APDtyrCV+RkexqlzJ62iY3pInilGiClknpeK8wBq1suAZBa9A9g7WA0JM0RrjPHCGpG+W7Rb8iJitYYfOuQ==
 
-"@shopify/polaris@^9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-9.0.0.tgz#181b002d142e11cbacb36d4bba3b416b2c149de1"
-  integrity sha512-3hwlezHx2jJDvdsrQh5q2dK//p199LzftxyDomWb6+HyYU+Tp/GxZnC42kB/kfS4lQyGa0/zP8HQDnBc732NCw==
+"@shopify/polaris@^9.2.3":
+  version "9.2.3"
+  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-9.2.3.tgz#a65a6b2501291f42f8e3312478e3ba9b03d6c3f9"
+  integrity sha512-C7kh2oHuGEGV1kKnNHNp9LGRICLOn/+QyoCAsYCFSGEGgMIpoERMmGxjcY/rpYekZ28JT6KrDWKiuZGqxWxHzw==
   dependencies:
     "@shopify/polaris-icons" "^4.17.0"
     "@types/react" "^17.0.19"
