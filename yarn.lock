@@ -320,6 +320,13 @@
   dependencies:
     base64url "^3.0.1"
 
+"@shopify/app-bridge@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-3.0.1.tgz#07adb2546e5cc6a833de878e30ae2f507adce156"
+  integrity sha512-KHEwLLYA9GCWW7q8xxpulPSfvCdGpFq3hn+1QIh3gtxX/1yN5A1wMOoOByUSKvwNQJV/Wfes5g9zuyxx6Wmoew==
+  dependencies:
+    base64url "^3.0.1"
+
 "@shopify/network@^1.5.1":
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/@shopify/network/-/network-1.6.4.tgz#fdfa8379cb6e06f05ee63d24aafcd6f8e275cb34"
