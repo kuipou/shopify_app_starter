@@ -299,12 +299,12 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@shopify/app-bridge-react@^2.0.14":
-  version "2.0.14"
-  resolved "https://registry.yarnpkg.com/@shopify/app-bridge-react/-/app-bridge-react-2.0.14.tgz#1507f32615d274740b596429ba0817f319dd9d1b"
-  integrity sha512-/F/hKaIUekWvwfMjE7PFGPUHYIQIk4O4lZzcwbv3iD6mJHfk8Lzfm6GmvexZiKHS1jkXtf1lIDo84j3VM03Pyw==
+"@shopify/app-bridge-react@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge-react/-/app-bridge-react-3.4.0.tgz#326f91843b735d05961d624c292531aff9a76117"
+  integrity sha512-WS7CjxWqQpySiHdzuvWKP8X09YwYYM6EcP4Hh6Bl2bZTJ1+4piazHLwQ9ZKr/PbUP8N+dws1DEaD9kOdL6kw8w==
   dependencies:
-    "@shopify/app-bridge" "^2.0.14"
+    "@shopify/app-bridge" "^3.4.0"
 
 "@shopify/app-bridge-utils@^2.0.14":
   version "2.0.14"
@@ -319,6 +319,14 @@
   integrity sha512-GTzjSEskiGawk4fVM3J3ZcomETCbFX4kb+RvP4VS8vh+aGhPSWbag2wAqNamldPXoNrK1IPyPhArbZQ3SO7CcQ==
   dependencies:
     base64url "^3.0.1"
+
+"@shopify/app-bridge@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-3.4.0.tgz#6f42a15f12d3a31d6c67b5b03b8df3057c9617ae"
+  integrity sha512-lsIGE9Tn1yjqhWqaP2mg/uP7bRWP2LcB15YFnI81+A5qUtaBQAaz+w67WzQRqUfFSKsI8/ICfLHRHe4qfr3whA==
+  dependencies:
+    base64url "^3.0.1"
+    web-vitals "^3.0.1"
 
 "@shopify/network@^1.5.1":
   version "1.6.4"
@@ -2650,6 +2658,11 @@ vitest@^0.5.9:
     tinypool "^0.1.2"
     tinyspy "^0.3.0"
     vite "^2.7.10"
+
+web-vitals@^3.0.1:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-3.0.3.tgz#e08cf4d30398baf91984f230a87872d6049e173f"
+  integrity sha512-8K6cl3alkVhwv7RQm3WAWFzvP9dBTH4CwOE7G3DfQDEnBJTdtNgX5XMqgE7aE79wac/kJ8fHWftUfH3AVxxbBw==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
