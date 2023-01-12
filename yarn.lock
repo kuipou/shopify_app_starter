@@ -320,6 +320,14 @@
   dependencies:
     base64url "^3.0.1"
 
+"@shopify/app-bridge@^3.6.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-3.6.0.tgz#66b13fac5c77a02fe320d9db5db77f6f4ea7ceb1"
+  integrity sha512-A07BBQBUqgMazoFe8wBnCZ9sS8ScwoyOSBvH7VwylWC6IzVPpl1h8ocjslIV9D7EoC+MYbUF0L9BnNTT1sLoDA==
+  dependencies:
+    base64url "^3.0.1"
+    web-vitals "^3.0.1"
+
 "@shopify/network@^1.5.1":
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/@shopify/network/-/network-1.6.4.tgz#fdfa8379cb6e06f05ee63d24aafcd6f8e275cb34"
@@ -2650,6 +2658,11 @@ vitest@^0.5.9:
     tinypool "^0.1.2"
     tinyspy "^0.3.0"
     vite "^2.7.10"
+
+web-vitals@^3.0.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-3.1.1.tgz#bb124a03df7a135617f495c5bb7dbc30ecf2cce3"
+  integrity sha512-qvllU+ZeQChqzBhZ1oyXmWsjJ8a2jHYpH8AMaVuf29yscOPZfTQTjQFRX6+eADTdsDE8IanOZ0cetweHMs8/2A==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
